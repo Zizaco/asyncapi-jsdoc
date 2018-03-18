@@ -1,0 +1,33 @@
+{
+  "name": "asyncapi-jsdoc",
+  "version": "0.0.1",
+  "description": "Generates AsyncAPI definitions based on JSDoc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "asyncapi-jsdoc": "./bin/asyncapi-jsdoc.js"
+  },
+  "keywords": [
+    "jsdoc",
+    "api",
+    "swagger",
+    "async",
+    "asyncapi"
+  ],
+  "author": "Zizaco <zizaco@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.15.0",
+    "doctrine": "^2.1.0",
+    "fs-extra": "^5.0.0",
+    "glob-promise": "^3.4.0",
+    "js-yaml": "^3.11.0",
+    "lodash": "^4.17.5",
+    "rxjs": "^5.5.7"
+  },
+  "devDependencies": {
+    "standard": "^11.0.1"
+  }
+}
