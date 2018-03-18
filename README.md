@@ -1,5 +1,7 @@
 # asyncApi-jsdoc
 
+![asyncApi logo](https://user-images.githubusercontent.com/777635/37571851-718aa754-2b02-11e8-9749-671991d5c97b.png)
+
 Document your code and keep a live and reusable [AsyncAPI specification](https://www.asyncapi.com/). This specification can be the core of your API-driven project: generate documentation, servers, clients, tests and much more based on the rich AsyncAPI ecosystem of tools.
 
 Based on [swagger-jsdoc](https://github.com/Surnet/swagger-jsdoc)
